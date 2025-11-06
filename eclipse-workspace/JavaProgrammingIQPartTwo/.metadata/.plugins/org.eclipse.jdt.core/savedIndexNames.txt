@@ -1,5 +1,0 @@
-INDEX VERSION 1.134+C:\Users\hi\eclipse-workspace\SeleniumPractice\JavaProgrammingIQPartTwo\.metadata\.plugins\org.eclipse.jdt.core
-1739193066.index
-1865797976.index
-1921666945.index
-1067094681.index
