@@ -1,15 +1,5 @@
-# Design Patterns – Java Implementation
+# Test-Automation-Design-Patterns-Java-Framework
 
-## 👨‍💻 Author
-
-**Arpit Choubey — SDET | QA | Automation Engineer**
-🔗 **LinkedIn** | **Medium**
-
-## ⭐ Support
-
-If this repository helps you, please **Star 🌟** it.
-
----
 
 # 📘 Overview
 
@@ -221,6 +211,15 @@ These implementations are ideal for:
 * Interview preparation
 * Framework design
 * Improving OOP and design architecture skills
+
+## 👨‍💻 Author
+
+**Arpit Choubey — SDET | QA | Automation Engineer**
+🔗 **LinkedIn** | **Medium**
+
+## ⭐ Support
+
+If this repository helps you, please **Star 🌟** it.
 
 
 
